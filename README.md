@@ -20,7 +20,7 @@ One-page portfolio website showcasing my skills, projects, and contact informati
 
 ## Screenshot
 
-![Project screenshot](assets/wallen1.jpg)
+![Project screenshot](assets/site-screenshot.png)
 
 ---
 
